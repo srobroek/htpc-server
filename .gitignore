@@ -1,0 +1,15 @@
+*
+*/
+
+!.gitignore
+!README.md
+!.env.template
+!docker-compose.yml
+!shared
+!shared/**
+!scripts
+!scripts/**
+!appdata
+!appdata/**
+
+
