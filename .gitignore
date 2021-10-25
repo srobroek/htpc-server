@@ -11,7 +11,7 @@
 !scripts
 !scripts/**
 !appdata
-!appdata/**
+!applications/**
 !secrets
 
 
