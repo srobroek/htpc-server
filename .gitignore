@@ -5,6 +5,7 @@
 !.gitignore
 !README.md
 !.env.template
+!.env
 !docker-compose.yml
 !shared
 !shared/**
