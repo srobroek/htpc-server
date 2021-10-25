@@ -1,6 +1,7 @@
 *
 */
 
+!**/.gitkeep
 !.gitignore
 !README.md
 !.env.template
